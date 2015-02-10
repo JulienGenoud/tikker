@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wearableApp package="com.example.android.wearable.watchface">
+    <versionCode>1</versionCode>
+    <versionName>1.0</versionName>
+    <rawPathResId>android_wear_micro_apk</rawPathResId>
+</wearableApp><!-- From: file:/Applications/Android%20Studio.app/sdk/samples/android-21/wearable/WatchFace/Application/build/generated/res/microapk/release/xml/android_wear_micro_apk.xml -->

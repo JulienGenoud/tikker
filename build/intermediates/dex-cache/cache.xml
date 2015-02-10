@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/classes-0c2dc907892ed881972a38219d79b7256331be3c.jar" />
+    </item>
+    <item
+        jar="/Users/julien/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5241f2380d6266849608e48475ea737aa94be0ce.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-55bdf16ade18ae3a063a4b845ed3fb014e97b79c.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/classes-c80dc1ec446fbe647a6afed746222bc5e3ebdd45.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/classes-d57da31b8e9889224bdba4e5c69a327068b073fb.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-fcb468f37e87196fc6a28d8d17120cfae29a7a16.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/classes-61f6f8ef2863e56d690d67fe2e3cc90a298c3e19.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-eaca0bf518e589257f8ac8cb1c48b055161c1138.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-e5670931c3bc21b48bfb6a145db303d28a9a5dac.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-e396a13e86cef1522daa2ec57478b922aa648b71.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-05e2769987e544937e0e38754890789ad26a70e4.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-654edb5036329c411d30b181c8050e1b8406f365.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-04ba8285d1755203d052ae805378544197b57035.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-81e456c1d2e177140f0f604d8579303497aba5a5.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-3f4ea82f7fdb4339ac7017a70bdca22a5fa9452e.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/classes-c4430cdd94866a821d23fa0e6637915378f09ed2.jar" />
+    </item>
+    <item
+        jar="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/classes-8853bc88cf045ee8406cca32faf493e4151d2cb9.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/classes/debug
+/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-55bdf16ade18ae3a063a4b845ed3fb014e97b79c.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5241f2380d6266849608e48475ea737aa94be0ce.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/classes-c4430cdd94866a821d23fa0e6637915378f09ed2.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/classes-c80dc1ec446fbe647a6afed746222bc5e3ebdd45.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-81e456c1d2e177140f0f604d8579303497aba5a5.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/classes-0c2dc907892ed881972a38219d79b7256331be3c.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/classes-61f6f8ef2863e56d690d67fe2e3cc90a298c3e19.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/classes-8853bc88cf045ee8406cca32faf493e4151d2cb9.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Wearable/build/intermediates/pre-dexed/debug/classes-d57da31b8e9889224bdba4e5c69a327068b073fb.jar

@@ -1,0 +1,10 @@
+/Applications/Android Studio.app/sdk/samples/android-21/wearable/WatchFace/Application/build/intermediates/classes/release
+/Applications/Android Studio.app/sdk/samples/android-21/wearable/WatchFace/Application/build/intermediates/pre-dexed/release/internal_impl-21.0.3-c823a32a309fa08d1e04aab1711b4f37e4ad88db.jar
+/Applications/Android Studio.app/sdk/samples/android-21/wearable/WatchFace/Application/build/intermediates/pre-dexed/release/support-annotations-21.0.3-4a3451217818f3fa9e04c6957b8d3d12621a1ee0.jar
+/Applications/Android Studio.app/sdk/samples/android-21/wearable/WatchFace/Application/build/intermediates/pre-dexed/release/classes-35f9d970c43e6e9db7a6272d3ac6abda6bf180c4.jar
+/Applications/Android Studio.app/sdk/samples/android-21/wearable/WatchFace/Application/build/intermediates/pre-dexed/release/classes-9a0005ad759559e525e3c66ccdfada618ee50b61.jar
+/Applications/Android Studio.app/sdk/samples/android-21/wearable/WatchFace/Application/build/intermediates/pre-dexed/release/internal_impl-21.0.3-858545b8d746a999ec122f4676205dcb620228d4.jar
+/Applications/Android Studio.app/sdk/samples/android-21/wearable/WatchFace/Application/build/intermediates/pre-dexed/release/classes-dcffab54953f4049d50d652a6475643b238f4926.jar
+/Applications/Android Studio.app/sdk/samples/android-21/wearable/WatchFace/Application/build/intermediates/pre-dexed/release/classes-ea63a25fcd2b22a47ff98d50bdf9601f3f28c469.jar
+/Applications/Android Studio.app/sdk/samples/android-21/wearable/WatchFace/Application/build/intermediates/pre-dexed/release/classes-f0bfc918c97be27cee6c870ba16c68e85d0f7f08.jar
+/Applications/Android Studio.app/sdk/samples/android-21/wearable/WatchFace/Application/build/intermediates/pre-dexed/release/classes-84ab03fcbbb6f1d232ac379b4b1c56f8d260ce86.jar

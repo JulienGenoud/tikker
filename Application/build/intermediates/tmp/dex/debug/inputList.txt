@@ -1,0 +1,10 @@
+/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/classes/debug
+/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-05e2769987e544937e0e38754890789ad26a70e4.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5241f2380d6266849608e48475ea737aa94be0ce.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-e5670931c3bc21b48bfb6a145db303d28a9a5dac.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-eaca0bf518e589257f8ac8cb1c48b055161c1138.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-fcb468f37e87196fc6a28d8d17120cfae29a7a16.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-e396a13e86cef1522daa2ec57478b922aa648b71.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-654edb5036329c411d30b181c8050e1b8406f365.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-3f4ea82f7fdb4339ac7017a70bdca22a5fa9452e.jar
+/Users/julien/Workspace/WATCHFACES/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-04ba8285d1755203d052ae805378544197b57035.jar
